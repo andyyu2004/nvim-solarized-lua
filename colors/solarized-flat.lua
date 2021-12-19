@@ -23,12 +23,11 @@ local lightColors = {
 local darkColors = {
 	none = {'none', 'none'},
 	base02 = {'#073642',15},
-    -- red is actually green :)
 	red = {'#dc322f',193},
 	green = {'#859900',133},
 	yellow = {'#b58900',171},
 	blue = {'#268bd2',56},
-	magenta = {'#d33682',188},
+	magenta = {'#39A6B9',188},
 	cyan = {'#2aa198',61},
 	base2 = {'#eee8d5',238},
 	base03 = {'#002b36',7},
